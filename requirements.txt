@@ -1,0 +1,16 @@
+beautifulsoup4==4.3.2
+Django==1.5
+django-comments-xtd==1.2
+django-contactme==1.1
+django-flatblocks==0.9.1
+django-flatblocks-xtd==0.1a1
+django-inline-media==1.2
+django-markup==0.4
+django-tagging==0.3.6
+docutils==0.12
+Markdown==2.6.2
+Pillow==2.8.2
+Pygments==2.0.2
+six==1.9.0
+sorl-thumbnail==12.2
+wheel==0.24.0
